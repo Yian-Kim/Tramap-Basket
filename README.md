@@ -2,7 +2,7 @@
 
 **Travel + Map + Basket의 줄임말로, Servlet과 JSP 기반의 서버 & 클라이언트 프로젝트인 자유여행사 사이트입니다.** 
 
-![CHANMI KIM's Portfolio - Home]( Preview")
+![Tramap Basket](https://tinyurl.com/ybnxuaqp "Preview")
 
 ### 👋 Introduction
 
@@ -44,24 +44,24 @@
     </tr>
 </table>
 
-### 📷 Screen Shot
+### 📼 Appearance
 
 <table>
     <tr>
-       <th colspan="4">Customer</th>
+       <th>Customer</th>
+       <th>Admin</th>
     </tr>
     <tr>
-        <th>Country</th>
-        <th>Ticket</th>
-        <th>Theme</th>
-        <th>Attraction</th>
+        <th><img src="https://tinyurl.com/y965f5vm"></th>
+        <th><img src="https://tinyurl.com/ydcnjguc"></th>
     </tr>
     <tr>
-        <td><img width="266" src=""></td>
+        <th><img src="https://tinyurl.com/y93vrufa"></th>
+        <th><img src="https://tinyurl.com/yddqd7z3"></th>
     </tr>
 </table>
 
-### Role & Member
+### 📑 Role & Member
 
 <table>
     <tr>
@@ -100,7 +100,7 @@
     <tr>
         <th>소스(코딩)</th>
         <th>가이드 선택, <br>가이드 페이지, <br>결제페이지, <br>가이드 후기 <br>게시판</th>
-        <th>숙박관리, <br?회원관리, <br> 1:1문의, <br>게시판, FAQ</th>
+        <th>숙박관리, <br>회원관리, <br> 1:1문의, <br>게시판, FAQ</th>
         <th>일자별 관광지 <br>선택, 총 여행 <br>후기 게시판</th>
         <th>숙소 선택, <br>숙소 후기 <br>게시판</th>
         <th>일자, 나라, <br>항공권, 테마, <br>관광지 선택, <br>동행자 게시판</th>
@@ -119,7 +119,7 @@
         <th>의견제안, <br>문서개요작성, <br>화면설계, <br>DB설계, <br>소스취합</th>
         <th>의견제안, <br>화면설계, <br>발표</th>
         <th>의견제안, <br>화면설계, <br>발표자료 제작, <br>발표보조</th>
-        <th>의견제안, <br>화면설계, <br?발표보조</th>
+        <th>의견제안, <br>화면설계, <br>발표보조</th>
         <th>의견제안, <br>화면설계</th>
         <th>의견제안, <br>화면설계, <br>문서취합</th>
     </tr>
