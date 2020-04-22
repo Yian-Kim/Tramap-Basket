@@ -2,7 +2,7 @@
 
 **Travel + Map + Basket의 줄임말로, Servlet과 JSP 기반의 서버 & 클라이언트 프로젝트인 자유여행사 사이트입니다.** 
 
-![Tramap Basket](https://tinyurl.com/ybnxuaqp "Preview")
+![Tramap Basket](https://lh3.googleusercontent.com/_dXd0hR__wTnNpO_jzd5ns1xQ5o5qyzNTzbwVaz6ju3mVW1uZ6-dnjrMGDt5FgBfNuuDkKfRdV7JeVjOvHkhJAYMhaobZt3JFBBVE_-aAe3CJGmsnNPwmYiKSVfRgJiy8qUHctS9G0XdSS3rHJa5EAbeIo9xREj0h_NUdP6Y8fMQlcnmDNzRpJ7DwWyoJwxS6V2kn-1tNXDUMKf9F5Z7_d8v-HVxvOb-hAx8UsGw_vpzy1SUT3a4c13wO8RGG-AqVPbrvJst7jGx_jWocCDfVBU4OMoewgovG506-vm9UFL25elXKY0JiYkr_3M0zWildKwmMELqOQW6v1kXanX4fCc01Nxc62VGEdEn3M6sD8Zwc3jdYDI0Oph4DQ8Fm-GOCs6s0tLABN7tbzeASviawbnW2UL1cR6-zh8mzEpbfnouQhk-ZGPCJCS4XNUKUOxoci_OgHMbdS4mw3jF0uxhjynXTfe9JPpp6TdjGExZEEJSkN7qEiYDcC_881cCCGM4jQibK7Ut7kfjIO8M6E7Dnk73OW0Q76pJNpS456RM1AvX4FUjBpRQCXLXBfwNWTfxf1Czvjp7xn17k5zRsCEjeKhSsVQqtknAnqpzZ-MR6fknlDv347Z56khNoFOeiwlMONJcefKQ_tcFPTpdVqNfpblbEbrL038YclWJ7afQKBdg-JA4Id6NWbC6ZpFwSQ=w1454-h969-no "Preview")
 
 ### 👋 Introduction
 
@@ -72,17 +72,17 @@
     <tr>
         <th>프로젝트 기획</th>
         <th>개요작성</th>
-        <th colspan="5">회의 / 의견제안</th>
+        <th colspan="5">아이디어 회의, 의견제안</th>
     </tr>
     <tr>
         <th>요구분석</th>
         <th>개요작성</th>
-        <th colspan="5">회의 / 의견제안 / 문서작성</th>
+        <th colspan="5">아이디어 회의, 의견제안, 문서작성</th>
     </tr>
     <tr>
         <th>데이터설계</th>
         <th>개요작성</th>
-        <th colspan="5">회의 / 의견제안 / 문서작성</th>
+        <th colspan="5">아이디어 회의, 의견제안, 문서작성</th>
     </tr>
     <tr>
         <th>기능명세서</th>
@@ -106,7 +106,7 @@
         <th>발표자료</th>
         <th>의견제안</th>
         <th>발표</th>
-        <th>발표보조 <br>/ 자료작성</th>
+        <th>발표보조, <br>자료작성</th>
         <th>발표보조</th>
         <th colspan="2">의견제안</th>
     </tr>
