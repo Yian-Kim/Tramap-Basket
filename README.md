@@ -38,10 +38,6 @@
         <th>비고</th>
         <th> </th>
     </tr>
-    <tr>
-        <th>본인역할</th>
-        <th colspan="3">일자별 관광지 선택 및 총 여행 후기 게시판 개발, 발표자료 제작</th>
-    </tr>
 </table>
 
 ### 📼 Appearance
