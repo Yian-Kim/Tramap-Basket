@@ -26,7 +26,7 @@
     </tr>
       <tr>
         <th>프로젝트 개요</th>
-        <th>자유여행사 사이트 제작</th>
+        <th>바구니처럼 담는 자유여행사 사이트</th>
         <th>개발 환경</th>
         <th>Eclipse JEE, Oracle DB, Java(JDK1.8)</th>
     </tr>
