@@ -9,7 +9,7 @@
         <th>프로젝트명</th>
         <th>Tramap Basket</th>
         <th>개발 기간</th>
-        <th>2019.07.08. ~ 2019.07.19. <br>(일 4시간, 총 12일)</th>
+        <th>2019.07.08. ~ 2019.07.19.</th>
     </tr>
     <tr>
         <th>프로젝트 성격</th>
@@ -28,13 +28,26 @@
         <th>프로젝트 개요</th>
         <th>바구니처럼 담는 자유여행사 사이트</th>
         <th>개발 환경</th>
-        <th>Eclipse JEE, Oracle DB, Java(JDK1.8)</th>
+        <th>Windows10</th>
     </tr>
-        <tr>
-        <th>주요 기술</th>
-        <th>Java, SQL, JSP, HTML5, CSS3, <br>JavaScript, jQuery</th>
-        <th>비고</th>
-        <th> </th>
+    <tr>
+        <th colspan="4">사용한 Skill 또는 지식</th>
+    </tr>  
+    <tr>
+        <th>개발언어</th>
+        <th colspan="3">Java(JDK 1.8), Oracle SQL, HTML5, JavaScript, CSS3</th>
+    </tr>
+    <tr>
+        <th>형상관리</th>
+        <th colspan="3">Github, Git Bash, Source Tree</th>
+    </tr>
+    <tr>
+        <th>개발도구</th>
+        <th colspan="3">Eclipse JEE, Visual Studio Code, Oracle SQL Developer, eXERD</th>
+    </tr>
+    <tr>
+        <th>사용기술</th>
+        <th colspan="3">JSP, Servlet, jQuery, Bootstrap, Ajax</th>
     </tr>
 </table>
 
